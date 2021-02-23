@@ -1,6 +1,5 @@
 # unity-car-project
-This project was built basing on Unity application. In this app, users can interact with augmented object.
-For now, it is just a prototype.
+This project was built based on Unity application. In this app, users can interact with augmented object.
 
  --------------------------
  Background
