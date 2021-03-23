@@ -24,7 +24,7 @@ Download the repos and run the project on Xcode. From xcode, you can install the
 -----------------------------------
 Notes
 ---------------------------------------
-We could try to upload the Unity version that we built, but Github could not contain such a massive size, and it keeps crashing. This is the Xcode version which was converted from the Unity version. 
+This is the Xcode version which was converted from the Unity version. We could try to upload the Unity version that we built, but Github had some problems with containing such a massive size.
 
 ------------------------------
 Authors
