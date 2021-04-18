@@ -29,8 +29,8 @@ This is the Xcode version which was converted from the Unity version. We could t
 ------------------------------
 Authors
 -----------------------------
-*Hoang Vo 
 *Anh (Tony) Nguyen
+*Hoang Vo 
 *Colby Lewis
 *Josue Cerritos
 *Kent Nguyen
